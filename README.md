@@ -1,5 +1,5 @@
 # best-repo-ever
 
-First commit.
+First Merger.
 
 added new-branch-2.
