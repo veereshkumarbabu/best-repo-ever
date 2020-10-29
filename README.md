@@ -2,6 +2,4 @@
 
 First commit.
 
-added new-branch-1.
-
-testing push.
+added new-branch-2.
